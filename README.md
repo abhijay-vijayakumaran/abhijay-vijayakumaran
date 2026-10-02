@@ -356,9 +356,7 @@ Performance
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/abhijay-vijayakumaran">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijay-vijayakumaran&bg_color=1a1b27&color=38BDF8&line=38BDF8&point=FFFFFF&area_color=2563EB&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijay-vijayakumaran&theme=tokyonight" width="100%" alt="Profile Details" />
 </p>
 
 ---
@@ -373,9 +371,6 @@ Performance
 
 ## 📦 Repository & Activity Overview
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijay-vijayakumaran&theme=tokyonight" width="100%" alt="Profile Details" />
-</p>
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijay-vijayakumaran&theme=tokyonight" alt="Repositories per Language" />

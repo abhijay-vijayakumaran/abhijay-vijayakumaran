@@ -339,12 +339,9 @@ Performance
 
 ---
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhijay-vijayakumaran&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=GitHub%20Statistics" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijay-vijayakumaran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" />
-</p>
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhijay-vijayakumaran&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=GitHub%20Statistics" alt="GitHub Statistics" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijay-vijayakumaran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" /> </p>
 
 ---
 

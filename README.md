@@ -1,71 +1,124 @@
-# Hi, I'm Abhijay Vijayakumaran
+<h1 align="center">Hi 👋, I'm Abhijay Vijayakumaran</h1>
 
-<h3 align="center">💻 Full Stack Developer | MERN & MEAN Stack | MCA Student</h3>
+<h3 align="center">
+  Full Stack Developer · MERN & MEAN Stack · MCA Student
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+%26+MEAN+Stack+Developer;React.js+%7C+Angular+%7C+Next.js;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+%26+MEAN+Stack+Developer;React.js+%7C+Angular+%7C+Next.js;Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhijay-vijayakumaran&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abhijay-vijayakumaran?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <a href="https://github.com/abhijay-vijayakumaran">
+    <img src="https://komarev.com/ghpvc/?username=abhijay-vijayakumaran&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/abhijay-vijayakumaran?label=Followers&style=for-the-badge&color=2563EB" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/abhijay-vijayakumaran?label=Stars&style=for-the-badge&color=F59E0B" alt="Stars" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
- 
+  <a href="https://linkedin.com/in/abhijay-vijayakumaran">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abhijayvijayakumaran@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/abhijay-vijayakumaran">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🔭 Currently building **OmniLend – Community Healthcare Equipment Lifecycle & Logistics Platform**
-* 🌱 Learning **Advanced Full Stack Development, Angular, Next.js, TypeScript & System Design**
-* 💻 Experienced in building applications using **MERN & MEAN Stack**
-* 👯 Open to collaborating on **Full Stack, Frontend & Open Source Projects**
-* 🤝 Exploring **Scalable Architecture, Advanced React, Angular & Backend Optimization**
-* 💬 Ask me about **React.js, Angular, JavaScript, TypeScript, Node.js, Express.js, MongoDB & REST APIs**
-* 🎓 Pursuing **Master of Computer Applications (MCA)**
-* 📫 Reach me at **[abhijayvijayakumaran@gmail.com](mailto:abhijayvijayakumaran@gmail.com)**
-* ⚡ Fun fact: I turn ☕ coffee into 💻 code and 🐛 bugs into features!
+I'm a **Full Stack Developer** focused on building modern, scalable, and user-friendly web applications using the **MERN and MEAN ecosystems**.
+
+My development experience spans frontend architecture, RESTful APIs, authentication, role-based access control, database design, API integration, responsive UI development, and full-stack application workflows.
+
+* 🎓 Currently pursuing **Master of Computer Applications (MCA)**
+* 💻 Full Stack development experience with **React.js and Angular**
+* ⚙️ Backend development using **Node.js, Express.js and REST APIs**
+* 🗄️ Database design using **MongoDB and Mongoose**
+* 🔐 Implementing **JWT Authentication, OAuth and RBAC**
+* 🎨 Building responsive interfaces using **Tailwind CSS, Bootstrap and Material UI**
+* 📊 Working with **Redux Toolkit, Context API and RxJS**
+* 🚀 Deploying applications using platforms such as **Vercel, Render and MongoDB Atlas**
+* 🧪 Interested in clean code, debugging, testing and maintainable architecture
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Current Focus
 
-### Languages
+<table>
+<tr>
+<td width="50%">
 
-<p align="left">
+### 🔭 Currently Building
+
+**OmniLend**
+
+A community-driven healthcare equipment lifecycle and logistics platform designed around lending, borrowing, sanitation, repair, redistribution and volunteer logistics.
+
+**Stack**
+
+React · Node.js · Express · MongoDB
+
+</td>
+
+<td width="50%">
+
+### 🌱 Currently Learning
+
+* Advanced React
+* Angular & RxJS
+* Next.js
+* TypeScript
+* Scalable Full Stack Architecture
+* System Design
+* Advanced Backend Development
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 What I Work With
+
+### 💻 Languages
+
+<p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 </p>
 
-### Frontend Development
+### ⚛️ Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,tailwind,bootstrap,materialui" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,tailwind,bootstrap" />
 </p>
 
-### Backend Development
+### 🟢 Backend & Database
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
 </p>
 
-### Additional Technologies
+### 🔧 Development Concepts
 
 <p align="left">
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RBAC-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVC%20Architecture-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CRUD-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Integration-059669?style=for-the-badge" />
 </p>
 
 ---
@@ -74,83 +127,96 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 OmniLend
+<h3>🏥 OmniLend</h3>
 
-**Community Healthcare Equipment Platform**
+<b>Community Healthcare Equipment Platform</b>
 
-A full-stack healthcare equipment sharing platform connecting borrowers, lenders, volunteers, sanitizers, and administrators.
+A full-stack platform designed to help communities lend, borrow, donate, sanitize and repair assistive healthcare equipment.
 
-* 5 Role-Based Modules
-* Proportional Fit Engine
-* Equipment Sanitation Lifecycle
-* QR-Based Custody Verification
-* 60+ REST API Endpoints
+**Highlights**
 
-**Tech:** React · Node.js · Express · MongoDB
+* 👥 5 role-based modules
+* 🧠 Proportional Fit Engine
+* 🧼 Equipment sanitation lifecycle
+* 📱 QR-based custody verification
+* 🔐 JWT authentication & RBAC
+* 🔌 60+ REST API endpoints
 
+**Tech**
 
+`React` `Node.js` `Express` `MongoDB`
 
 </td>
-<td width="50%">
 
-### 💼 HIRENEXUX
+<td width="50%" valign="top">
 
-**Job Application & Recruitment Platform**
+<h3>💼 HIRENEXUX</h3>
 
-A full-stack recruitment management system with dedicated portals for Admin, HR, and Candidates.
+<b>Job Application & Recruitment Platform</b>
 
-* JWT Authentication & RBAC
-* Job & Application Management
-* Resume Uploads
-* Interview Scheduling
-* Email Notifications
-* Analytics Dashboards
+A full-stack recruitment management system connecting Admin, HR and Candidates through dedicated role-based portals.
 
-**Tech:** Angular · Node.js · Express · MongoDB
+**Highlights**
 
+* 🔐 JWT & RBAC
+* 💼 Job management
+* 📄 Resume uploads
+* 📋 Application tracking
+* 📅 Interview scheduling
+* 📧 Email notifications
+* 📊 Analytics dashboards
+
+**Tech**
+
+`Angular` `Node.js` `Express` `MongoDB`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 BookStore
+<h3>📚 BookStore</h3>
 
-**Online Book Marketplace**
+<b>Online Book Marketplace</b>
 
-A full-stack marketplace for buying and selling books.
+A full-stack marketplace for buying and selling books with authentication, payments and administration workflows.
 
-* Google OAuth & JWT
-* Stripe Checkout
-* Image Uploads
-* Admin Moderation
-* Search & Filtering
+**Highlights**
 
-**Tech:** React · Node.js · Express · MongoDB
+* 🔑 JWT & Google OAuth
+* 💳 Stripe Checkout
+* 🖼️ Multer image uploads
+* 🔎 Search & filtering
+* 🛡️ Admin moderation
 
+**Tech**
 
+`React` `Node.js` `Express` `MongoDB`
 
 </td>
-<td width="50%">
 
-### 🎬 Prime Cinemas
+<td width="50%" valign="top">
 
-**Movie Ticket Booking Application**
+<h3>🎬 Prime Cinemas</h3>
 
-A responsive movie ticket booking application featuring interactive booking workflows.
+<b>Movie Ticket Booking Application</b>
 
-* Seat Selection
-* Booking Management
-* Ticket Calculation
-* Redux Toolkit
-* LocalStorage Persistence
+A responsive movie booking application with interactive seat selection and centralized application state.
 
-**Tech:** React · Redux Toolkit · Tailwind CSS
+**Highlights**
 
+* 🎟️ Seat selection
+* 📋 Booking management
+* 🧮 Ticket calculation
+* 🔄 Redux Toolkit
+* 💾 LocalStorage persistence
 
+**Tech**
+
+`React` `Redux Toolkit` `Tailwind CSS`
 
 </td>
 </tr>
@@ -158,24 +224,94 @@ A responsive movie ticket booking application featuring interactive booking work
 
 ---
 
+## 📌 Other Projects
+
+| Project                      | Description                                                    | Technologies                      |
+| ---------------------------- | -------------------------------------------------------------- | --------------------------------- |
+| 🤖 **AI Resume Generator**   | AI-assisted resume builder with PDF preview and download       | React · Tailwind · REST API       |
+| 👟 **Sneaker Collection**    | Full CRUD inventory management application                     | React · Tailwind · JSON Server    |
+| 🌦️ **Weather App**          | Real-time city-based weather application                       | React · Tailwind · OpenWeatherMap |
+| 🧠 **AI Prompt Marketplace** | Full-stack marketplace for discovering and managing AI prompts | Next.js · MongoDB                 |
+| 📦 **Inventory Management**  | Inventory management application built with Next.js            | Next.js · MongoDB                 |
+| 📖 **BookStore**             | Full-stack online book marketplace                             | MERN · Stripe · OAuth             |
+
+---
+
+## 🏗️ Full Stack Development
+
+```text
+                    ┌─────────────────────────┐
+                    │       Frontend          │
+                    │ React · Angular · Next  │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │       REST APIs          │
+                    │   Express · Node.js      │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │       Database           │
+                    │    MongoDB · Mongoose    │
+                    └─────────────────────────┘
+```
+
+### 🔐 Application Architecture
+
+**Frontend**
+
+`React` · `Angular` · `Next.js` · `Redux Toolkit` · `Context API` · `RxJS`
+
+↓
+
+**API Layer**
+
+`Node.js` · `Express.js` · `REST APIs` · `Middleware`
+
+↓
+
+**Security**
+
+`JWT` · `OAuth` · `RBAC` · `bcrypt`
+
+↓
+
+**Database**
+
+`MongoDB` · `Mongoose` · `Schema Design` · `Aggregation`
+
+↓
+
+**Deployment**
+
+`Vercel` · `Render` · `MongoDB Atlas`
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhijay-vijayakumaran&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijay-vijayakumaran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijay-vijayakumaran&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhijay-vijayakumaran&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=GitHub%20Statistics" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijay-vijayakumaran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </p>
 
 ---
 
-## 📈 Contribution Activity Graph
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijay-vijayakumaran&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
   <a href="https://github.com/abhijay-vijayakumaran">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijay-vijayakumaran&theme=tokyo-night&hide_border=true&area=true&custom_title=Abhijay's%20Contribution%20Graph" width="100%" alt="Contribution Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijay-vijayakumaran&bg_color=1a1b27&color=38BDF8&line=38BDF8&point=FFFFFF&area_color=2563EB&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph" />
   </a>
 </p>
 
@@ -189,42 +325,98 @@ A responsive movie ticket booking application featuring interactive booking work
 
 ---
 
-## 📦 GitHub Repository Overview
+## 📦 Repository & Activity Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijay-vijayakumaran&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijay-vijayakumaran&theme=tokyonight" width="100%" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijay-vijayakumaran&theme=tokyonight" alt="Repositories by Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijay-vijayakumaran&theme=tokyonight" alt="Repositories per Language" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhijay-vijayakumaran&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhijay-vijayakumaran&theme=tokyonight" alt="GitHub Summary Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhijay-vijayakumaran&theme=tokyonight" alt="GitHub Stats Summary" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhijay-vijayakumaran&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhijay-vijayakumaran&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+## 💡 What I Enjoy Building
+
+```text
+🌐 Modern Web Applications
+⚛️ React & Angular Interfaces
+🔌 RESTful APIs
+🔐 Authentication & Authorization Systems
+🗄️ MongoDB Applications
+📊 Admin & Analytics Dashboards
+🤖 AI-Integrated Applications
+💳 Payment-Enabled Applications
+📱 Responsive User Experiences
+🏗️ Full Stack Architectures
+```
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm interested in collaborating on:
+
+* 🚀 MERN / MEAN full-stack applications
+* ⚛️ React and Angular projects
+* 🌐 Open-source web applications
+* 🤖 AI-integrated web applications
+* 🧩 Developer tools and productivity applications
+* 💡 Interesting ideas that solve real-world problems
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/abhijay-vijayakumaran">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-abhijay--vijayakumaran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="mailto:abhijayvijayakumaran@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-abhijayvijayakumaran%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
   <a href="https://github.com/abhijay-vijayakumaran">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-abhijay--vijayakumaran-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
+---
+
+## ⚡ Fun Fact
+
 <p align="center">
-  💙 Thanks for visiting my profile! Let's build something meaningful together.
+  <b>☕ Coffee → 💻 Code → 🐛 Debug → 🚀 Deploy → 🔁 Repeat</b>
+</p>
+
+---
+
+<h3 align="center">
+  Thanks for visiting my profile! 👋
+</h3>
+
+<p align="center">
+  <i>Building useful things, learning continuously, and improving one commit at a time.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=130&section=footer" width="100%" alt="Footer" />
 </p>

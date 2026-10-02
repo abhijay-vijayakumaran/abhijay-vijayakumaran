@@ -43,7 +43,7 @@ My development experience spans frontend architecture, RESTful APIs, authenticat
 * 🔐 Implementing **JWT Authentication, OAuth and RBAC**
 * 🎨 Building responsive interfaces using **Tailwind CSS, Bootstrap and Material UI**
 * 📊 Working with **Redux Toolkit, Context API and RxJS**
-* 🚀 Deploying applications using platforms such as **Vercel, Render and MongoDB Atlas**
+* 🚀 Deploying applications using **Vercel, Render and MongoDB Atlas**
 * 🧪 Interested in clean code, debugging, testing and maintainable architecture
 
 ---
@@ -52,7 +52,7 @@ My development experience spans frontend architecture, RESTful APIs, authenticat
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔭 Currently Building
 
@@ -62,11 +62,11 @@ A community-driven healthcare equipment lifecycle and logistics platform designe
 
 **Stack**
 
-React · Node.js · Express · MongoDB
+`React` · `Node.js` · `Express` · `MongoDB`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌱 Currently Learning
 
@@ -123,7 +123,7 @@ React · Node.js · Express · MongoDB
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Recent Projects
 
 <table>
 <tr>
@@ -133,7 +133,7 @@ React · Node.js · Express · MongoDB
 
 <b>Community Healthcare Equipment Platform</b>
 
-A full-stack platform designed to help communities lend, borrow, donate, sanitize and repair assistive healthcare equipment.
+Community-driven platform for lending, borrowing, donating, sanitizing and repairing assistive healthcare equipment.
 
 **Highlights**
 
@@ -141,7 +141,7 @@ A full-stack platform designed to help communities lend, borrow, donate, sanitiz
 * 🧠 Proportional Fit Engine
 * 🧼 Equipment sanitation lifecycle
 * 📱 QR-based custody verification
-* 🔐 JWT authentication & RBAC
+* 🔐 JWT & RBAC
 * 🔌 60+ REST API endpoints
 
 **Tech**
@@ -156,7 +156,7 @@ A full-stack platform designed to help communities lend, borrow, donate, sanitiz
 
 <b>Job Application & Recruitment Platform</b>
 
-A full-stack recruitment management system connecting Admin, HR and Candidates through dedicated role-based portals.
+Full-stack recruitment management system connecting Admin, HR and Candidates through dedicated role-based portals.
 
 **Highlights**
 
@@ -182,7 +182,7 @@ A full-stack recruitment management system connecting Admin, HR and Candidates t
 
 <b>Online Book Marketplace</b>
 
-A full-stack marketplace for buying and selling books with authentication, payments and administration workflows.
+Full-stack marketplace for buying and selling books with authentication, payments and administration workflows.
 
 **Highlights**
 
@@ -204,7 +204,7 @@ A full-stack marketplace for buying and selling books with authentication, payme
 
 <b>Movie Ticket Booking Application</b>
 
-A responsive movie booking application with interactive seat selection and centralized application state.
+Responsive movie booking application with interactive seat selection and centralized application state.
 
 **Highlights**
 
@@ -220,73 +220,176 @@ A responsive movie booking application with interactive seat selection and centr
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🤖 AI Resume Generator</h3>
+
+<b>AI-Powered Resume Builder</b>
+
+AI-integrated resume builder designed to generate job-role-specific resume content with live PDF preview and download.
+
+**Highlights**
+
+* 🤖 AI content generation
+* 📝 Structured resume forms
+* 🔌 REST API integration
+* 📄 Real-time PDF preview
+* ⬇️ One-click PDF download
+* 🧭 Multi-route architecture
+
+**Tech**
+
+`React` `Tailwind CSS` `REST API` `React Router`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔗 Development Focus</h3>
+
+<b>What I Build Across Projects</b>
+
+My projects focus on practical full-stack workflows, scalable APIs, responsive interfaces and real-world application features.
+
+**Focus Areas**
+
+* ⚛️ Frontend architecture
+* 🔌 REST API development
+* 🔐 Authentication & authorization
+* 🗄️ Database design
+* 📊 Dashboard development
+* 🤖 AI integrations
+
+**Stack**
+
+`MERN` `MEAN` `Next.js` `TypeScript`
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📌 Other Projects
+## 🏗️ Full Stack Architecture
 
-| Project                      | Description                                                    | Technologies                      |
-| ---------------------------- | -------------------------------------------------------------- | --------------------------------- |
-| 🤖 **AI Resume Generator**   | AI-assisted resume builder with PDF preview and download       | React · Tailwind · REST API       |
-| 👟 **Sneaker Collection**    | Full CRUD inventory management application                     | React · Tailwind · JSON Server    |
-| 🌦️ **Weather App**          | Real-time city-based weather application                       | React · Tailwind · OpenWeatherMap |
-| 🧠 **AI Prompt Marketplace** | Full-stack marketplace for discovering and managing AI prompts | Next.js · MongoDB                 |
-| 📦 **Inventory Management**  | Inventory management application built with Next.js            | Next.js · MongoDB                 |
-| 📖 **BookStore**             | Full-stack online book marketplace                             | MERN · Stripe · OAuth             |
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🎨 Frontend
+
+React.js
+Angular
+Next.js
+Redux Toolkit
+Context API
+RxJS
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔌 API Layer
+
+Node.js
+Express.js
+REST APIs
+Middleware
+API Integration
+Async/Await
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔐 Security
+
+JWT
+OAuth
+RBAC
+bcrypt
+Authorization
+Protected Routes
+
+</td>
+
+<td width="25%" align="center">
+
+### 🗄️ Data Layer
+
+MongoDB
+Mongoose
+Schema Design
+Aggregation
+CRUD
+Data Validation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏗️ Full Stack Development
+## ☁️ Development & Deployment Workflow
 
-```text
-                    ┌─────────────────────────┐
-                    │       Frontend          │
-                    │ React · Angular · Next  │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │       REST APIs          │
-                    │   Express · Node.js      │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │       Database           │
-                    │    MongoDB · Mongoose    │
-                    └─────────────────────────┘
-```
+<table>
+<tr>
+<td width="20%" align="center">
 
-### 🔐 Application Architecture
+### 💻 Develop
 
-**Frontend**
+VS Code
+npm
+Figma
 
-`React` · `Angular` · `Next.js` · `Redux Toolkit` · `Context API` · `RxJS`
+</td>
 
-↓
+<td width="20%" align="center">
 
-**API Layer**
+### 🔧 Version Control
 
-`Node.js` · `Express.js` · `REST APIs` · `Middleware`
+Git
+GitHub
+Branching
+Code Review
 
-↓
+</td>
 
-**Security**
+<td width="20%" align="center">
 
-`JWT` · `OAuth` · `RBAC` · `bcrypt`
+### 🧪 Test & Debug
 
-↓
+Postman
+Thunder Client
+Unit Testing
+Debugging
 
-**Database**
+</td>
 
-`MongoDB` · `Mongoose` · `Schema Design` · `Aggregation`
+<td width="20%" align="center">
 
-↓
+### 🚀 Deploy
 
-**Deployment**
+Vercel
+Render
+MongoDB Atlas
 
-`Vercel` · `Render` · `MongoDB Atlas`
+</td>
+
+<td width="20%" align="center">
+
+### 📊 Monitor
+
+Logs
+Analytics
+Error Handling
+Performance
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -355,18 +458,59 @@ A responsive movie booking application with interactive seat selection and centr
 
 ## 💡 What I Enjoy Building
 
-```text
-🌐 Modern Web Applications
-⚛️ React & Angular Interfaces
-🔌 RESTful APIs
-🔐 Authentication & Authorization Systems
-🗄️ MongoDB Applications
-📊 Admin & Analytics Dashboards
-🤖 AI-Integrated Applications
-💳 Payment-Enabled Applications
-📱 Responsive User Experiences
-🏗️ Full Stack Architectures
-```
+<table>
+<tr>
+<td width="25%" align="center">
+
+🌐 <b>Web Applications</b>
+
+</td>
+
+<td width="25%" align="center">
+
+⚛️ <b>Frontend Systems</b>
+
+</td>
+
+<td width="25%" align="center">
+
+🔌 <b>REST APIs</b>
+
+</td>
+
+<td width="25%" align="center">
+
+🔐 <b>Auth & RBAC</b>
+
+</td>
+</tr>
+
+<tr>
+<td width="25%" align="center">
+
+🗄️ <b>Database Systems</b>
+
+</td>
+
+<td width="25%" align="center">
+
+📊 <b>Analytics Dashboards</b>
+
+</td>
+
+<td width="25%" align="center">
+
+🤖 <b>AI Integrations</b>
+
+</td>
+
+<td width="25%" align="center">
+
+💳 <b>Payment Systems</b>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -379,7 +523,7 @@ I'm interested in collaborating on:
 * 🌐 Open-source web applications
 * 🤖 AI-integrated web applications
 * 🧩 Developer tools and productivity applications
-* 💡 Interesting ideas that solve real-world problems
+* 💡 Projects solving practical real-world problems
 
 ---
 

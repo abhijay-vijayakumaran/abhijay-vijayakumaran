@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhijay-vijayakumaran&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+ 
   </a>
 </p>
 
@@ -90,7 +90,7 @@ A full-stack healthcare equipment sharing platform connecting borrowers, lenders
 
 **Tech:** React · Node.js · Express · MongoDB
 
-[🔗 View Repository](YOUR_OMNILEND_REPO_LINK)
+
 
 </td>
 <td width="50%">
@@ -110,7 +110,6 @@ A full-stack recruitment management system with dedicated portals for Admin, HR,
 
 **Tech:** Angular · Node.js · Express · MongoDB
 
-[🔗 View Repository](YOUR_HIRENEXUX_REPO_LINK)
 
 </td>
 </tr>
@@ -132,7 +131,7 @@ A full-stack marketplace for buying and selling books.
 
 **Tech:** React · Node.js · Express · MongoDB
 
-[🔗 View Repository](YOUR_BOOKSTORE_REPO_LINK)
+
 
 </td>
 <td width="50%">
@@ -151,7 +150,7 @@ A responsive movie ticket booking application featuring interactive booking work
 
 **Tech:** React · Redux Toolkit · Tailwind CSS
 
-[🔗 View Repository](YOUR_PRIME_CINEMAS_REPO_LINK)
+
 
 </td>
 </tr>

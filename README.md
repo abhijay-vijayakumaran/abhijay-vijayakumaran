@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhijay Vijayakumaran
+# Hi, I'm Abhijay Vijayakumaran
 
 <h3 align="center">💻 Full Stack Developer | MERN & MEAN Stack | MCA Student</h3>
 

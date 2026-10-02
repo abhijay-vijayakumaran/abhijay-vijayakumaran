@@ -129,48 +129,43 @@ A community-driven healthcare equipment lifecycle and logistics platform designe
 <tr>
 <td width="50%" valign="top">
 
-<h3>🏥 OmniLend</h3>
+### 🏥 OmniLend
 
-<b>Community Healthcare Equipment Platform</b>
+**Community Healthcare Equipment Platform**
 
-Community-driven platform for lending, borrowing, donating, sanitizing and repairing assistive healthcare equipment.
+MERN-based platform for borrowing, lending, sanitizing, repairing, and redistributing healthcare equipment.
 
 **Highlights**
 
-* 👥 5 role-based modules
-* 🧠 Proportional Fit Engine
-* 🧼 Equipment sanitation lifecycle
-* 📱 QR-based custody verification
-* 🔐 JWT & RBAC
-* 🔌 60+ REST API endpoints
+* 5 role-based modules
+* Proportional Fit Engine
+* Sanitation Lock & QR verification
+* JWT + RBAC
+* 60+ REST API endpoints
+* Mongoose schema design & MVC
 
-**Tech**
-
-`React` `Node.js` `Express` `MongoDB`
+**Tech:** React · Node.js · Express.js · MongoDB · Tailwind CSS
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>💼 HIRENEXUX</h3>
+### 💼 HIRENEXUX
 
-<b>Job Application & Recruitment Platform</b>
+**Job Application & Recruitment Platform**
 
-Full-stack recruitment management system connecting Admin, HR and Candidates through dedicated role-based portals.
+MEAN-based recruitment management system connecting Admins, HR teams, and Candidates through dedicated portals.
 
 **Highlights**
 
-* 🔐 JWT & RBAC
-* 💼 Job management
-* 📄 Resume uploads
-* 📋 Application tracking
-* 📅 Interview scheduling
-* 📧 Email notifications
-* 📊 Analytics dashboards
+* 3 role-based portals
+* JWT + bcrypt authentication
+* Job & application management
+* Interview scheduling
+* Email notifications
+* Chart.js analytics
 
-**Tech**
-
-`Angular` `Node.js` `Express` `MongoDB`
+**Tech:** Angular · Node.js · Express.js · MongoDB · Tailwind CSS
 
 </td>
 </tr>
@@ -178,97 +173,48 @@ Full-stack recruitment management system connecting Admin, HR and Candidates thr
 <tr>
 <td width="50%" valign="top">
 
-<h3>📚 BookStore</h3>
+### 📚 BookStore
 
-<b>Online Book Marketplace</b>
+**Online Book Marketplace**
 
-Full-stack marketplace for buying and selling books with authentication, payments and administration workflows.
+Full-stack marketplace with authentication, book management, payments, and admin moderation.
 
 **Highlights**
 
-* 🔑 JWT & Google OAuth
-* 💳 Stripe Checkout
-* 🖼️ Multer image uploads
-* 🔎 Search & filtering
-* 🛡️ Admin moderation
+* JWT + Google OAuth
+* Role-based access control
+* Stripe Checkout
+* Multer file uploads
+* Admin moderation
+* Search & filtering
 
-**Tech**
-
-`React` `Node.js` `Express` `MongoDB`
+**Tech:** React · Node.js · Express.js · MongoDB · Tailwind CSS
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🎬 Prime Cinemas</h3>
+### 🎬 Prime Cinemas
 
-<b>Movie Ticket Booking Application</b>
+**Movie Ticket Booking Application**
 
-Responsive movie booking application with interactive seat selection and centralized application state.
-
-**Highlights**
-
-* 🎟️ Seat selection
-* 📋 Booking management
-* 🧮 Ticket calculation
-* 🔄 Redux Toolkit
-* 💾 LocalStorage persistence
-
-**Tech**
-
-`React` `Redux Toolkit` `Tailwind CSS`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🤖 AI Resume Generator</h3>
-
-<b>AI-Powered Resume Builder</b>
-
-AI-integrated resume builder designed to generate job-role-specific resume content with live PDF preview and download.
+Responsive React application for browsing movies, selecting seats, calculating ticket prices, and managing bookings.
 
 **Highlights**
 
-* 🤖 AI content generation
-* 📝 Structured resume forms
-* 🔌 REST API integration
-* 📄 Real-time PDF preview
-* ⬇️ One-click PDF download
-* 🧭 Multi-route architecture
+* Interactive seat selection
+* Booking management
+* Ticket price calculation
+* Booking history
+* Seat protection
+* Responsive UI
 
-**Tech**
-
-`React` `Tailwind CSS` `REST API` `React Router`
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🔗 Development Focus</h3>
-
-<b>What I Build Across Projects</b>
-
-My projects focus on practical full-stack workflows, scalable APIs, responsive interfaces and real-world application features.
-
-**Focus Areas**
-
-* ⚛️ Frontend architecture
-* 🔌 REST API development
-* 🔐 Authentication & authorization
-* 🗄️ Database design
-* 📊 Dashboard development
-* 🤖 AI integrations
-
-**Stack**
-
-`MERN` `MEAN` `Next.js` `TypeScript`
+**Tech:** React · Redux Toolkit · Tailwind CSS · LocalStorage
 
 </td>
 </tr>
 </table>
+
 
 ---
 
